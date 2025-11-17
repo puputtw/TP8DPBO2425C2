@@ -7,7 +7,8 @@
 
 # Database:
   Terdiri dari 3 tabel relasional dengan ERD berikut:
-  
+  <img width="1198" height="759" alt="Cuplikan layar 2025-11-17 154824" src="https://github.com/user-attachments/assets/de173c8c-2c7c-4d9a-bbb0-769f54063c1c" />
+
   
 # Desain:
   Program menggunakan Model-View-Controller (MVC) untuk memisahkan logika, tampilan, dan data
@@ -45,7 +46,20 @@
       -Controller memanggil view → menampilkan form (fill())
       -Setelah submit, Controller memanggil model untuk menyimpan data
       -Redirect ke halaman tabel (render())
-   
+
+
+
+#   Dokumentasi:
+
+
+
+
+   https://github.com/user-attachments/assets/06645c29-b8e5-4826-923b-02555bce8936
+
+
+   https://github.com/user-attachments/assets/30718403-b07e-4733-96ee-094342181d89
+
+
    
 
   
