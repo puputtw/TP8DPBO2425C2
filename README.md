@@ -35,16 +35,16 @@
        -fill() → Menampilkan form untuk create, update
 
   c. Controller
-     -Menghubungkan model dengan view
-     -Membuka dan menutup koneksi database
-     -Mengelola data CRUD sebelum dikirim ke view
+       -Menghubungkan model dengan view
+       -Membuka dan menutup koneksi database
+       -Mengelola data CRUD sebelum dikirim ke view
 
 # Alur:
-   -User membuka halaman 
-   -Controller memanggil model untuk menyiapkan data
-   -Controller memanggil view → menampilkan form (fill())
-   -Setelah submit, Controller memanggil model untuk menyimpan data
-   -Redirect ke halaman tabel (render())
+      -User membuka halaman 
+      -Controller memanggil model untuk menyiapkan data
+      -Controller memanggil view → menampilkan form (fill())
+      -Setelah submit, Controller memanggil model untuk menyimpan data
+      -Redirect ke halaman tabel (render())
    
    
 
