@@ -14,24 +14,25 @@
 
    a. Model
        Terdiri dari beberapa model yaitu:
-      -Lecturers → Mengelola data dosen (ID, nama, nidn, phone, join_date)
-      -LecturerCourses → Mengelola mata kuliah dosen(id, lecturer_id, course_name, course_code, semester)
-      -LecturerEducation → Mengelola pendidikan dosen(id. lecturer_id, degree, field_of_study,university
-       graduation_year
+        -Lecturers → Mengelola data dosen (ID, nama, nidn, phone, join_date)
+        -LecturerCourses → Mengelola mata kuliah dosen(id, lecturer_id, course_name, course_code, semester)
+        -LecturerEducation → Mengelola pendidikan dosen(id. lecturer_id, degree, field_of_study,university
+         graduation_year
 
        Setiap model menerapkan CRUD:
-      -Create → Menambah data baru
-      -Read → Menampilkan data
-      -Update → Mengubah data
-      -Delete → Menghapus data
+        -Create → Menambah data baru
+        -Read → Menampilkan data
+        -Update → Mengubah data
+        -Delete → Menghapus data
       
   b. View
+  
       Template:
-     -tables.html → Menampilkan tabel data dari setiap model
-     -form.html → Menampilkan form input / edit
+       -tables.html → Menampilkan tabel data dari setiap model
+       -form.html → Menampilkan form input / edit
       Fungsi utama:
-     -render() → Menampilkan tabel data
-     -fill() → Menampilkan form untuk create, update
+       -render() → Menampilkan tabel data
+       -fill() → Menampilkan form untuk create, update
 
   c. Controller
      -Menghubungkan model dengan view
