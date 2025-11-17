@@ -12,7 +12,7 @@
 # Desain:
   Program menggunakan Model-View-Controller (MVC) untuk memisahkan logika, tampilan, dan data
 
-   a. Model:
+   a. Model
        Terdiri dari beberapa model yaitu:
         -Lecturers → Mengelola data dosen (ID, nama, nidn, phone, join_date)
         -LecturerCourses → Mengelola mata kuliah dosen(id, lecturer_id, course_name, course_code, semester)
@@ -25,7 +25,7 @@
         -Update → Mengubah data
         -Delete → Menghapus data
       
-  b. View:
+  b. View
   
       Template:
        -tables.html → Menampilkan tabel data dari setiap model
@@ -34,7 +34,7 @@
        -render() → Menampilkan tabel data
        -fill() → Menampilkan form untuk create, update
 
-  c. Controller:
+  c. Controller
        -Menghubungkan model dengan view
        -Membuka dan menutup koneksi database
        -Mengelola data CRUD sebelum dikirim ke view
