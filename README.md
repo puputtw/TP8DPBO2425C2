@@ -2,7 +2,7 @@
 
 
 ## Janji:
-  Saya Putri Ramadhani dengan NIM 2410975 mengerjakan TP 8 dalam mata kuliah Desain Pemroraman Berbasis Objek, untuk itu saya tidak akan melakukan kecurangan seprti yang telah dispesifikasikan, aamiin
+  Saya Putri Ramadhani dengan NIM 2410975 mengerjakan TP 8 dalam mata kuliah Desain Pemroraman Berorientasi Objek, untuk keberkahannya saya tidak akan melakukan kecurangan seprti yang telah dispesifikasikan, aamiin
 
 
 # Database:
@@ -50,9 +50,6 @@
 
 
 #   Dokumentasi:
-
-
-
 
    https://github.com/user-attachments/assets/06645c29-b8e5-4826-923b-02555bce8936
 
