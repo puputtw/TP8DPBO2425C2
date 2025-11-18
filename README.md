@@ -28,14 +28,15 @@
       
   b. View
   
-      Template:
+      Template
        -tables.html → Menampilkan tabel data dari setiap model
        -form.html → Menampilkan form input / edit
-      Fungsi utama:
+      Fungsi utama
        -render() → Menampilkan tabel data
        -fill() → Menampilkan form untuk create, update
 
   c. Controller
+  
        -Menghubungkan model dengan view
        -Membuka dan menutup koneksi database
        -Mengelola data CRUD sebelum dikirim ke view
